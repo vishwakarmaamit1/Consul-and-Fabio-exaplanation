@@ -19,7 +19,6 @@ body : {
 "streetRoad":"Outer Ring Road",
 "city":"Bangalore",
 "pinCode":123456
-
 }<br />
 employee url : http://take-hostname-from-consul/employee/save<br />
 
@@ -27,7 +26,6 @@ body:{
 "fName":"jhgjh",
 "lName":"fsfd",
 "id":7
-
 }<br />
 Get Emp URL: http://take-hostname-from-consul/employee/7<br />
 You will get the employee details with address
