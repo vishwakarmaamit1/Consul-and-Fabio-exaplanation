@@ -2,7 +2,7 @@
 Use below url for referece
 http://springconsul.blogspot.com/2017/01/spring-boot-with-consul-and-fabio.html
 
-# Folloe the below step:
+# Folloe the below step:<br/>
 Download the consul and run this command **Consul.exe agent –dev**
 Start the address service
 Take the host and port number and update in addres provider in the employee service
