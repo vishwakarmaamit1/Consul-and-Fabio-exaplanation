@@ -9,7 +9,7 @@ Take the host and port number and update in addres provider in the employee serv
 Now Start the employee service<br />
 Now download fabio-1.5.13-go1.13.4-windows_amd64.exe and run<br />
 Hit the below url<br />
-**http://localhost:8500/ui**<br />
+**http://localhost:8500/ui**<br /> (https://github.com/vishwakarmaamit1/Consul-and-Fabio-exaplanation/blob/master/img/ConsulImg.PNG)
 **http://localhost:9998/routes**<br />
 
 
